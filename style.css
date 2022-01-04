@@ -2,8 +2,8 @@ body {font-family: 'Poppins', sans-serif;
 margin:0px;}
 h1{font-size: 65px;}
 .blue-color {color:#0072fa;}
-section{display:flex;
-margin-bottom:100px;}
+.flexiable{display:flex;
+margin-bottom:85px;}
 .width{
     width: 50%;
     padding-left: 10%;
