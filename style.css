@@ -27,3 +27,34 @@ margin-bottom:85px;}
     background-repeat:no-repeat;
     background-position:right ;
 }
+.experince-items{
+    width:40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding:12px;
+    box-shadow: 5px 3px 212px #0070fa34;
+    border-radius: 6px;
+    background-color: white;
+    
+ 
+
+}
+.experince-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    
+}
+#senior{
+    border-left:5px solid;
+    border-image:linear-gradient(#0072fa,#002a5d);
+    border-image-slice: 1;
+}
+#junior{
+    border-left:5px solid;
+    border-image:linear-gradient(orange,tomato);
+    border-image-slice: 1;
+}
+footer p {
+    text-align: center;
+}
